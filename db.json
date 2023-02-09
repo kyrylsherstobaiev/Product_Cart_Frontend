@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "name": "Samsung Galaxy Z Fold 3 12/512GB Phantom Green (SM-F926BZGGSEK)",
+    "price": 1510,
+    "img": "img/smf926b_galaxy_z_fold_3_12512gb_zgg_phantom_green_smf926bzggsek_1022665028221.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Huawei Mate 40 Pro 5G 8/256GB Silver Global Version",
+    "price": 1350,
+    "img": "img/mate_40_pro_5g_8256gb_silver_global_version_950399897646.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Asus ROG Phone 5s (ZS676KS-1A037EU) 16/512GB Dual Sim Black (90AI0091-M00370)",
+    "price": 1220,
+    "img": "img/asus_rog_phone_5s_zs676ks1a037eu_16512gb_dual_sim_black_90ai0091m00370_1071251777621.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Apple iPhone 13 Pro 128GB Graphite",
+    "price": 1215,
+    "img": "img/iphone_13_pro_128gb_graphite_100538596143.jpg"
+  }
+]
